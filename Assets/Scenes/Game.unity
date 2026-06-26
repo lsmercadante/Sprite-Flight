@@ -6677,7 +6677,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d00b96662a624de0b658ba12fe30a57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  thrustForce: 2.5
+  thrustForce: 50
   maxSpeed: 5
   boosterFlame: {fileID: 1581136409}
   scoreMultiplier: 10
